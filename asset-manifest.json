@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/study-app/static/css/main.28c8b3b2.css",
+    "main.js": "/study-app/static/js/main.57acd062.js",
+    "static/media/delete-icon.svg": "/study-app/static/media/delete-icon.654b7ff1da8dd5745151381d71dd7c57.svg",
+    "index.html": "/study-app/index.html",
+    "main.57acd062.js.map": "/study-app/static/js/main.57acd062.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28c8b3b2.css",
+    "static/js/main.57acd062.js"
+  ]
+}
